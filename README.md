@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # tyitpro
 
 A new Flutter project.
@@ -20,3 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 
 During my academic studies, I developed a women's security Android app using Flutter for the front end and PHP with MySQLi for the back end. The app provides safety features such as emergency alerts, location tracking, and real-time notifications. This project enhanced my skills in cross-platform mobile development, server-side scripting, and database management.
 >>>>>>> 395760670f69ea9437a080669355a79e6be162ff
+=======
+# Women's Safety App
+>>>>>>> 9db02b41bafd11309f602fcce0c1b807ae8aeaa2
