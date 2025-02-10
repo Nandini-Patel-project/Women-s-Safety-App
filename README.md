@@ -21,8 +21,8 @@ During my academic studies, I developed a women's security Android app using Flu
 
  * output:
  * spash screen:
- * ![Image](https://github.com/user-attachments/assets/9bc02629-22b1-4096-861a-8f55e4ec8f17)
- * home page:
  * ![Image](https://github.com/user-attachments/assets/e31aa5f0-f12e-4909-9eb6-4bd672045c16)
- * manage contact page:
+ * home page:
  * ![Image](https://github.com/user-attachments/assets/a3953175-c980-47f7-bb66-061a5655895b)
+ * manage contact page:
+ * ![Image](https://github.com/user-attachments/assets/9bc02629-22b1-4096-861a-8f55e4ec8f17)
