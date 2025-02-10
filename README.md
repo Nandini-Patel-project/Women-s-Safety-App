@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # tyitpro
 
-A new Flutter project.
-
-## Getting Started
+Flutter project.
 
 This project is a starting point for a Flutter application.
 
@@ -21,6 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 During my academic studies, I developed a women's security Android app using Flutter for the front end and PHP with MySQLi for the back end. The app provides safety features such as emergency alerts, location tracking, and real-time notifications. This project enhanced my skills in cross-platform mobile development, server-side scripting, and database management.
 >>>>>>> 395760670f69ea9437a080669355a79e6be162ff
-=======
-# Women's Safety App
->>>>>>> 9db02b41bafd11309f602fcce0c1b807ae8aeaa2
+
+ * output:
+ * ![Image](https://github.com/user-attachments/assets/9bc02629-22b1-4096-861a-8f55e4ec8f17)
+![Image](https://github.com/user-attachments/assets/e31aa5f0-f12e-4909-9eb6-4bd672045c16)
+![Image](https://github.com/user-attachments/assets/a3953175-c980-47f7-bb66-061a5655895b)
